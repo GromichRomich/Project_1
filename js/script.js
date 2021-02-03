@@ -37,5 +37,16 @@ console.log(++incr);
 console.log(--decro);
 
 
+console.log(2+5*1 != 10);
+
+
+
+const isChekced = false,
+      isClose = false;
+
+console.log(isChekced || !isClose);
+
+
+
 
 
